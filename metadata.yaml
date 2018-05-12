@@ -1,10 +1,16 @@
 _repo: Kalliit-hunajan-pisarat-Kalliosta-Kristuksesta-eli-Lyhykainen-varoitussana-kaikille-pyhille-j__50413
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wilcox, Thomas
     gutenberg_agent_id: '45886'
     url: http://www.gutenberg.org/2009/agents/45886
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50413#Kalliit-hunajan-pisarat-Kalliosta-Kristuksesta-eli-Lyhykainen-varoitussana-kaikille-pyhille-j_
 gutenberg_issued: '2015-11-09'
 gutenberg_type: Text
 identifiers:
